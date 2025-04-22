@@ -1,8 +1,8 @@
-## 📝 Description
+## Description
 
 <!-- Briefly explain what this PR does and why it is needed -->
 
-## ✅ Changes made
+## Changes made
 
 - [ ] New feature
 - [ ] Bug fix
@@ -17,19 +17,13 @@
 - ...
 - ...
 
-## 📸 Screenshots (optional)
-
-<!-- Add screenshots or GIFs if it helps demonstrate the change -->
-
-## 🔍 Checklist
+## Checklist
 
 - [ ] I tested the changes locally
 - [ ] I added tests if necessary
 - [ ] I updated documentation if needed
 - [ ] The implementation follows project conventions
 
-## 📎 Related issue (if applicable)
+## Related issue (if applicable)
 
 Closes #...
-
----
